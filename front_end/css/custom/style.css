@@ -710,7 +710,7 @@ img {
 
 /* CONTACT */
 #contact .form-control {
-  background-color: var(--color-base);
+  background-color: var(--color-heading);
   border-color: var(--color-base);
   color: var(--color-body);
 }
